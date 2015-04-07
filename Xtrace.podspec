@@ -88,7 +88,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = 'Xray/Xtrace.h', 'Xray/Xtrace.mm'
+  s.source_files  = 'Xtrace.h', 'Xtrace.mm'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
